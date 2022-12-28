@@ -1,3 +1,3 @@
-Jogo da forca produzido em clipper
+Projetos didáticos desenvolvidos em Clipper
 
 ==================================
